@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "postcss-preset-env": "6.7.x",
-    "vite": "2.6.1"
+    "vite": "2.9.16"
   }
 }
